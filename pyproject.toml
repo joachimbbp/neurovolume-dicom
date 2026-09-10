@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "matplotlib>=3.11.1",
-    "numpy>=2.5.3",
+    "neurovolume>=0.1.0a20",
+    "numpy==1.26.4",
     "pydicom>=3.0.2",
 ]
